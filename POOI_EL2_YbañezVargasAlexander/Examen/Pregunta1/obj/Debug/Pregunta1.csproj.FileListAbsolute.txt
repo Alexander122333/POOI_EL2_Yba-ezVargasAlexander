@@ -1,0 +1,10 @@
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\bin\Debug\Pregunta1.exe.config
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\bin\Debug\Pregunta1.exe
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\bin\Debug\Pregunta1.pdb
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.csprojAssemblyReference.cache
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.Form1.resources
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.Properties.Resources.resources
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.csproj.GenerateResource.cache
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.csproj.CoreCompileInputs.cache
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.exe
+C:\Users\Alex Ybañez\OneDrive\Escritorio\POOI_EL2_YbañezVargasAlexander\Examen\Pregunta1\obj\Debug\Pregunta1.pdb
